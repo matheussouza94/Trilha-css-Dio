@@ -45,10 +45,4 @@ Clone o repositório (se estiver em um, ou apenas baixe os arquivos).
 
 Abra o arquivo index.html diretamente no seu navegador.
 
-Bash
-
-# Exemplo de como abrir em um ambiente de desenvolvimento local
-# Abra o terminal na pasta do projeto e use:
-# python -m http.server 8000
-# Ou simplesmente arraste o index.html para o navegador.
 Sinta-se à vontade para explorar o código, adaptá-lo e usá-lo como base para seus próprios projetos de desenvolvimento web!
